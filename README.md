@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating an uncommon error scenario involving a division function. The function is designed to handle both ZeroDivisionError (division by zero) and TypeError exceptions (incorrect operand types). The bug.py file shows the initial code, while bugSolution.py provides a solution that improves error handling and clarity.
